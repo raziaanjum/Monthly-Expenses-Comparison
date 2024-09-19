@@ -10,7 +10,7 @@ month and category, allowing for easier identification of any trends or outliers
 # Why This Project Was Created ?
 1. Expense Tracking: To provide an effective tool for monitoring and managing personal or household expenses.
 2. Data Visualization: To demonstrate how bar plots can be used to present numerical data for easy comparison.
-3. Financial Planning: To help users identify which categories might require adjustments in their spending habits over time.
+3. Financial Planning: To help family identify which categories might require adjustments in their spending habits over time.
 
 # Results Achieved
 1. Comparison of Expense Categories: The project successfully highlights how spending 
