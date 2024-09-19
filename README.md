@@ -1,5 +1,5 @@
 # Monthly-Expenses-Comparison
-# Summary of Monthly Expenses Comparison Project
+# Project Summary 
 
 The "Monthly Expenses Comparison" project was designed to help visualize and compare 
 various expense categories over different months. The main objective is to gain insights 
