@@ -22,3 +22,8 @@ need to allocate more or less budget, ultimately supporting better financial dec
 
 Overall, the project illustrates the importance of tracking expenses and how data visualization 
 can simplify the process of financial management.
+
+# Tool
+
+1. Jupyter Notebook
+2. Python libraries (Numpy, Pandas and Matplotlib) 
